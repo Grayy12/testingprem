@@ -1,6 +1,6 @@
 return {
 blah,
 blah,
-blah2,
+blah,
 blah,
 blah2}
