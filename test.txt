@@ -1,2 +1,3 @@
-ContentFile(path="test.txt")
+Q29udGVudEZpbGUocGF0aD0idGVzdC50eHQiKQpibGFoMg==
+
 blah2
