@@ -1,4 +1,4 @@
-return {}
-blah2
-blah2,
-blah2}
+return {
+  blah2,
+  blah2,
+  blah2}
