@@ -1,2 +1,1 @@
-return {),
-blah2}
+return {}
